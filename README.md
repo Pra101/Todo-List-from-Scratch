@@ -3,7 +3,7 @@ Highly stable synchronous technology based todo-list app which uses localStorage
 
 
 <br><br>
-<img src="./imgs/Screenshot from 2022-06-22 00-41-20.png" width="600" alt="English Alphabet SSD Representation">
+<img src="./imgs/Screenshot from 2022-06-22 00-41-20.png" width="100%" alt="English Alphabet SSD Representation">
 Web App in Full page(F11)
 <br><br>
 <img src="./imgs/Screenshot from 2022-06-22 00-41-31.png" width="600" alt="English Alphabet SSD Representation">
