@@ -1,0 +1,74 @@
+body{
+    background-color:#f2bc94;
+    font-family:Courier;
+    color:#722620;
+}
+h1 {
+    background-color:#290001;
+    color:#f2bc94;
+    display: block;
+    font-size: 3em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h3 {
+    border: 2px solid #30110d;
+    background-color: black;
+    color:#f2bc94;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: right;
+}
+#_block {
+    border: 2px solid #30110d;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align:right;
+}
+h4 {
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align:right;
+}
+.ip_box {
+    border:solid #30110d;
+    color: #30110d;
+}
+input {
+    border: solid:#30110d;
+    width:85%;
+    Background-color:orange;
+    color:black;
+}
+textarea {
+    border: solid #30110d;
+    width:85%;
+    Background-color:orange;
+    color:black;
+}
+button {
+    background-color: #30110d;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    cursor: pointer;
+    align-items:center;
+    text-align:right;    
+}
+#del {
+    text-align:right;
+}
